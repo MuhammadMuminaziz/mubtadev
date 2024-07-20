@@ -23,10 +23,10 @@ export default function Projects() {
               >
                 <div className="row-start-2 lg:row-start-1">
                   <h1 className="font-semibold mb-2">{project.title}</h1>
-                  <div className="flex gap-2 mb-2">
+                  <div className="flex gap-2 mb-2 flex-wrap">
                     {project.technologies.map((technology, index) => (
                       <Fragment key={index}>
-                        <Badge variant="outline" className="text-slate-300">
+                        <Badge variant="outline" className="text-slate-300 whitespace-nowrap">
                           {technology}
                         </Badge>
                       </Fragment>

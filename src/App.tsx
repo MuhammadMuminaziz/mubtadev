@@ -15,8 +15,6 @@ function App() {
     Aos.init({
       once: true,
     });
-
-    document.title = "Mubtadev - Muhammad Mu'min Azis";
   });
 
   return (
