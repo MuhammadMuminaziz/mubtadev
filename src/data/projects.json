@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Fahira Jaya Aspal",
+        "category": "Company Profile",
+        "image": "img/projects/fahira-jaya-aspal.png",
+        "technologies": ["Laravel", "Bootstrap", "Lightbox", "MySQL"],
+        "description": "This is my first job in the field of freelancing. I have encountered many challenges, from UI/UX design to backend+development. However, through these experiences, I have learned effective problem-solving skills and have become more creative",
+        "url": null,
+        "github": "https://github.com/MuhammadMuminaziz/fahira-jaya-aspal"
+    },
+    {
+        "id": 2,
+        "title": "E-monitoring & E-evaluasi",
+        "category": null,
+        "image": "img/projects/emon.png",
+        "technologies": ["Laravel", "Bootstrap", "MySQL"],
+        "description": "E-monitoring & E-evaluation is an application designed to monitor and evaluate the data of schools and teachers in the Maluku province that have conducted the Computer-Based National Examination (UNBK).",
+        "url": "https://emon.balai-tekkom.com/",
+        "github": "https://github.com/MuhammadMuminaziz/monev-tekkom"
+    },
+    {
+        "id": 3,
+        "title": "Smart Office Maluku",
+        "category": null,
+        "image": "img/projects/so_maluku.png",
+        "technologies": ["CodeIgniter", "Bootstrap", "MySQL"],
+        "description": "Smart Office Maluku is an office application for the Maluku region, aimed at facilitating permissions and statements. My role involved fixing some bugs and adding several new features.",
+        "url": "http://so.malukuprov.go.id/",
+        "github": "https://github.com/MuhammadMuminaziz/so_maluku"
+    },
+    {
+        "id": 4,
+        "title": "Gemesaku",
+        "category": null,
+        "image": "img/projects/gamesaku.png",
+        "technologies": ["Laravel", "Bootstrap", "MySQL"],
+        "description": "Gemesaku is a government program application by the Cirebon Regency aimed at enhancing the quality of reading culture in Cirebon.",
+        "url": null,
+        "github": "https://github.com/MuhammadMuminaziz/gemesaku-app"
+    },
+    {
+        "id": 5,
+        "title": "Piutang App",
+        "category": null,
+        "image": "img/projects/piutang.png",
+        "technologies": ["Laravel", "Tailwind Css", "Livewire", "Alpine Js", "MySQL"],
+        "description": "Piutang App is an application for both inventory management and debt recording.",
+        "url": null,
+        "github": "https://github.com/MuhammadMuminaziz/piutang-app"
+    },
+    {
+        "id": 6,
+        "title": "Mandiri Technology Sejahtera",
+        "category": "Company Profile",
+        "image": "img/projects/mts.png",
+        "technologies": ["Laravel", "Tailwind Css", "Livewire", "Alpine Js", "MySQL"],
+        "description": "This application contains the profile of CV. Mandiri Technology Sejahtera, aimed at improving the quality of their services and products.",
+        "url": "http://www.mandiri-technology-sejahtera.com/",
+        "github": null
+    },
+    {
+        "id": 7,
+        "title": "Payroll App",
+        "category": null,
+        "image": "img/projects/payroll.png",
+        "technologies": ["Laravel", "Tailwind Css", "Livewire", "Alpine Js", "MySQL"],
+        "description": "Payroll App is a payroll, attendance, and employee scheduling application developed by PT. Arjuna Petrogas Indonesia.",
+        "url": null,
+        "github": "https://gitlab.com/azzamydev/arjuna-payroll"
+    }
+]

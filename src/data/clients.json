@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Diskominfo Kab Cirebon",
+        "photo": "img/clients/diskominfo.png"
+    },
+    {
+        "id": 2,
+        "name": "Provinsi Maluku",
+        "photo": "img/clients/maluku.png"
+    },
+    {
+        "id": 3,
+        "name": "Angga Baskara",
+        "photo": "img/clients/user.png"
+    },
+    {
+        "id": 4,
+        "name": "Ryan AP",
+        "photo": "img/clients/user.png"
+    },
+    {
+        "id": 5,
+        "name": "Ahmad Wahyudi",
+        "photo": "img/clients/user.png"
+    }
+]
